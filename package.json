@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  },
+  "name": "data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon express/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joealsaaidah/data.git"
+  },
+  "author": "Yousef Alsaaidah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joealsaaidah/data/issues"
+  },
+  "homepage": "https://github.com/joealsaaidah/data#readme",
+  "description": ""
+}
