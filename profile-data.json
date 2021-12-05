@@ -3,102 +3,122 @@
     {
       "id": 1,
       "username": "Serena VonRueden",
-      "avatar": "/images/profiles/1.jpg"
+      "avatar": "/images/profiles/1.jpg",
+      "company": "TechCity.io"
     },
     {
       "id": 2,
       "username": "Wilfredo Kulas",
-      "avatar": "/images/profiles/2.jpg"
+      "avatar": "/images/profiles/2.jpg",
+      "company": "techzoner"
     },
     {
       "id": 3,
       "username": "Haskell Will",
-      "avatar": "/images/profiles/3.jpg"
+      "avatar": "/images/profiles/3.jpg",
+      "company": "Economy Force"
     },
     {
       "id": 4,
       "username": "Ashton Harvey",
-      "avatar": "/images/profiles/4.jpg"
+      "avatar": "/images/profiles/4.jpg",
+      "company": "JOPLITY"
     },
     {
       "id": 5,
       "username": "Hosea Koss",
-      "avatar": "/images/profiles/5.jpg"
+      "avatar": "/images/profiles/5.jpg",
+      "company": "POLICITY"
     },
     {
       "id": 6,
       "username": "Miss Watson Kub",
-      "avatar": "/images/profiles/6.jpg"
+      "avatar": "/images/profiles/6.jpg",
+      "company": "searchum"
     },
     {
       "id": 7,
       "username": "Dr. Fausto Ruecker",
-      "avatar": "/images/profiles/7.jpg"
+      "avatar": "/images/profiles/7.jpg",
+      "company": "mobilexage"
     },
     {
       "id": 8,
       "username": "Madyson McClure",
-      "avatar": "/images/profiles/8.jpg"
+      "avatar": "/images/profiles/8.jpg",
+      "company": "docsgoogly"
     },
     {
       "id": 9,
       "username": "Shirley Sporer",
-      "avatar": "/images/profiles/9.jpg"
+      "avatar": "/images/profiles/9.jpg",
+      "company": "webprinter"
     },
     {
       "id": 10,
       "username": "Maiya Boyle",
-      "avatar": "/images/profiles/10.jpg"
+      "avatar": "/images/profiles/10.jpg",
+      "company": "CREATIZING"
     },
     {
       "id": 11,
       "username": "Dulce Carroll",
-      "avatar": "/images/profiles/11.jpg"
+      "avatar": "/images/profiles/11.jpg",
+      "company": "ENGROSSWORK"
     },
     {
       "id": 12,
       "username": "Lorenza Mills",
-      "avatar": "/images/profiles/12.jpg"
+      "avatar": "/images/profiles/12.jpg",
+      "company": "CLURMISING"
     },
     {
       "id": 13,
       "username": "Mr. General White",
-      "avatar": "/images/profiles/13.jpg"
+      "avatar": "/images/profiles/13.jpg",
+      "company": "LEFTWRITION"
     },
     {
       "id": 14,
       "username": "Ms. Jewel Beatty",
-      "avatar": "/images/profiles/14.jpg"
+      "avatar": "/images/profiles/14.jpg",
+      "company": "TRAVELSCOOT"
     },
     {
       "id": 15,
       "username": "Clay OKeefe",
-      "avatar": "/images/profiles/15.jpg"
+      "avatar": "/images/profiles/15.jpg",
+      "company": "OHTRAVELLI"
     },
     {
       "id": 16,
       "username": "Wiley Wintheiser",
-      "avatar": "/images/profiles/16.jpg"
+      "avatar": "/images/profiles/16.jpg",
+      "company": "vendboxing"
     },
     {
       "id": 17,
       "username": "Hosea Bechtelar V",
-      "avatar": "/images/profiles/17.jpg"
+      "avatar": "/images/profiles/17.jpg",
+      "company": "semiproxie"
     },
     {
       "id": 18,
       "username": "Deontae Dicki",
-      "avatar": "/images/profiles/18.jpg"
+      "avatar": "/images/profiles/18.jpg",
+      "company": "videfblock"
     },
     {
       "id": 19,
       "username": "Adelbert Abernathy",
-      "avatar": "/images/profiles/19.jpg"
+      "avatar": "/images/profiles/19.jpg",
+      "company": "disruptime"
     },
     {
       "id": 20,
       "username": "Mr. Damian Baumbach",
-      "avatar": "/images/profiles/20.jpg"
+      "avatar": "/images/profiles/20.jpg",
+      "company": "editwhiz"
     }
   ]
 }
